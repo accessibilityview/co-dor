@@ -1,0 +1,290 @@
+[
+  {
+    "path": "/",
+    "score": 0.95
+  },
+  {
+    "path": "/about-cdor",
+    "score": 0.95
+  },
+  {
+    "path": "/accessibility",
+    "score": 0.97
+  },
+  {
+    "path": "/advocate",
+    "score": 0.95
+  },
+  {
+    "path": "/americans-with-disabilities-act-accommodation-request-for-hearing-services",
+    "score": 0.95
+  },
+  {
+    "path": "/americans-with-disabilities-act-accommodation-request-for-lottery-services",
+    "score": 0.95
+  },
+  {
+    "path": "/annual-reports",
+    "score": 0.95
+  },
+  {
+    "path": "/auto-industry-cora-request",
+    "score": 0.97
+  },
+  {
+    "path": "/business-tax-webform",
+    "score": 0.95
+  },
+  {
+    "path": "/cdor-logos",
+    "score": 0.94
+  },
+  {
+    "path": "/cdor-organizational-chart",
+    "score": 0.95
+  },
+  {
+    "path": "/cdor-regulatory-agenda",
+    "score": 0.94
+  },
+  {
+    "path": "/cigarette-tobacco-nicotine-excise-tax-report",
+    "score": 0.95
+  },
+  {
+    "path": "/colorado-lottery-question-or-concern",
+    "score": 0.97
+  },
+  {
+    "path": "/colors",
+    "score": 0.93
+  },
+  {
+    "path": "/contact-the-executive-directors-office",
+    "score": 0.94
+  },
+  {
+    "path": "/contact-us/contact-hearings",
+    "score": 0.95
+  },
+  {
+    "path": "/cora",
+    "score": 0.95
+  },
+  {
+    "path": "/cora-request-form",
+    "score": 0.93
+  },
+  {
+    "path": "/customer-service-compliment-or-complaint",
+    "score": 0.95
+  },
+  {
+    "path": "/data-and-reports",
+    "score": 0.95
+  },
+  {
+    "path": "/data-and-reports/cigarette-nicotine-tobacco-data",
+    "score": 0.95
+  },
+  {
+    "path": "/data-and-reports/income-tax-data",
+    "score": 0.95
+  },
+  {
+    "path": "/data-and-reports/income-tax-data/gig-economy-reports",
+    "score": 0.95
+  },
+  {
+    "path": "/data-and-reports/income-tax-data/individual-income-tax-data-snapshots",
+    "score": 0.95
+  },
+  {
+    "path": "/data-and-reports/income-tax-data/tax-filer-demographics-and-migration-reports",
+    "score": 0.95
+  },
+  {
+    "path": "/data-and-reports/income-tax-data/voluntary-contribution-reports",
+    "score": 0.95
+  },
+  {
+    "path": "/data-and-reports/liquor-data/liquor-excise-tax-report",
+    "score": 0.95
+  },
+  {
+    "path": "/data-and-reports/marijuana-data",
+    "score": 0.95
+  },
+  {
+    "path": "/data-and-reports/marijuana-data/disposition-of-marijuana-tax-revenue",
+    "score": 0.97
+  },
+  {
+    "path": "/data-and-reports/marijuana-data/marijuana-sales-reports",
+    "score": 0.95
+  },
+  {
+    "path": "/data-and-reports/marijuana-data/marijuana-tax-reports",
+    "score": 0.95
+  },
+  {
+    "path": "/data-and-reports/motor-fuel-data/motor-fuel-consumption-reports",
+    "score": 0.95
+  },
+  {
+    "path": "/data-and-reports/racing-data",
+    "score": 0.95
+  },
+  {
+    "path": "/data-and-reports/sales-data/special-event-sales-report",
+    "score": 0.95
+  },
+  {
+    "path": "/data-and-reports/state-revenue-data",
+    "score": 0.95
+  },
+  {
+    "path": "/data-requests-and-questions",
+    "score": 0.94
+  },
+  {
+    "path": "/division-of-motor-vehicles-data",
+    "score": 0.95
+  },
+  {
+    "path": "/driver-license-id-or-permit-webform",
+    "score": 0.95
+  },
+  {
+    "path": "/express-consent",
+    "score": 0.97
+  },
+  {
+    "path": "/express-consent-cases-procedures",
+    "score": 0.95
+  },
+  {
+    "path": "/hearings-division",
+    "score": 0.95
+  },
+  {
+    "path": "/hearings-homepage/hearing-forms",
+    "score": 0.95
+  },
+  {
+    "path": "/hearings-homepage/motor-vehicle-hearings",
+    "score": 0.95
+  },
+  {
+    "path": "/hearings-homepage/motor-vehicle-hearings/alcohol-and-drug-related-offenses",
+    "score": 0.95
+  },
+  {
+    "path": "/hearings-homepage/motor-vehicle-hearings/auto-insurance",
+    "score": 0.95
+  },
+  {
+    "path": "/hearings-homepage/motor-vehicle-hearings/interlock",
+    "score": 0.95
+  },
+  {
+    "path": "/hearings-homepage/motor-vehicle-hearings/loss-of-driving-privileges-hearings",
+    "score": 0.95
+  },
+  {
+    "path": "/hearings-homepage/motor-vehicle-hearings/point-suspensions",
+    "score": 0.97
+  },
+  {
+    "path": "/hearings-homepage/regulatory-hearings-rulemaking",
+    "score": 0.95
+  },
+  {
+    "path": "/hearings-homepage/regulatory-hearings-rulemaking/regulatory-hearings-rulemaking-procedures",
+    "score": 0.97
+  },
+  {
+    "path": "/hearings-homepage/regulatory-hearings-rulemaking/rulemaking-hearings",
+    "score": 0.97
+  },
+  {
+    "path": "/hearings-homepage/regulatory-hearings-rulemaking/specialized-business-group-regulatory-hearings",
+    "score": 0.95
+  },
+  {
+    "path": "/hearings-homepage/regulatory-hearings-rulemaking/tax-hearings",
+    "score": 0.97
+  },
+  {
+    "path": "/hearings-homepage/zoom-help",
+    "score": 0.95
+  },
+  {
+    "path": "/holidays",
+    "score": 0.95
+  },
+  {
+    "path": "/home",
+    "score": 0.94
+  },
+  {
+    "path": "/human-resources",
+    "score": 0.95
+  },
+  {
+    "path": "/im-looking-for/ask-a-question",
+    "score": 0.95
+  },
+  {
+    "path": "/individual-tax-webform",
+    "score": 0.95
+  },
+  {
+    "path": "/liquor-enforcement-open-records-request-form",
+    "score": 0.97
+  },
+  {
+    "path": "/liquor-marijuana-or-racing-concern-form",
+    "score": 0.95
+  },
+  {
+    "path": "/media-center",
+    "score": 0.95
+  },
+  {
+    "path": "/military-veterans",
+    "score": 0.95
+  },
+  {
+    "path": "/motor-vehicle-testing-and-emissions-hearings",
+    "score": 0.97
+  },
+  {
+    "path": "/press-release/colorado-sports-betting-wagers-see-a-117-increase-in-the-fourth-month-of-legalization",
+    "score": 0.97
+  },
+  {
+    "path": "/request-personal-property-seized-in-a-business-closure",
+    "score": 0.95
+  },
+  {
+    "path": "/retail-sales-reports",
+    "score": 0.95
+  },
+  {
+    "path": "/rulemaking",
+    "score": 0.96
+  },
+  {
+    "path": "/send-an-americans-with-disabilities-act-ada-request",
+    "score": 0.93
+  },
+  {
+    "path": "/social-media-policy",
+    "score": 0.97
+  },
+  {
+    "path": "/vehicle-help",
+    "score": 0.95
+  }
+]
