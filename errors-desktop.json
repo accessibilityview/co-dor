@@ -1,0 +1,1452 @@
+[
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "/",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "/",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "americans-with-disabilities-act-accommodation-request-for-lottery-services",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "about-cdor",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "accessibility",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "advocate",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "americans-with-disabilities-act-accommodation-request-for-hearing-services",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "annual-reports",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "cdor-logos",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "auto-industry-cora-request",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "business-tax-webform",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "cdor-organizational-chart",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "cdor-regulatory-agenda",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "cigarette-tobacco-nicotine-excise-tax-report",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "colorado-lottery-question-or-concern",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "colors",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "contact-the-executive-directors-office",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "cora",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "data-and-reports",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "cora-request-form",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "customer-service-compliment-or-complaint",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "express-consent",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "driver-license-id-or-permit-webform",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "express-consent-cases-procedures",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "division-of-motor-vehicles-data",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "hearings-division",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "holidays",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "data-requests-and-questions",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "home",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "human-resources",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "individual-tax-webform",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "liquor-enforcement-open-records-request-form",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "liquor-marijuana-or-racing-concern-form",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "media-center",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "military-veterans",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "retail-sales-reports",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "motor-vehicle-testing-and-emissions-hearings",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "request-personal-property-seized-in-a-business-closure",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "rulemaking",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "social-media-policy",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "send-an-americans-with-disabilities-act-ada-request",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "about-cdor",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "vehicle-help",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "accessibility",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "advocate",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "americans-with-disabilities-act-accommodation-request-for-hearing-services",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "americans-with-disabilities-act-accommodation-request-for-lottery-services",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "auto-industry-cora-request",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "annual-reports",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "business-tax-webform",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "cdor-logos",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "cdor-organizational-chart",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "cdor-regulatory-agenda",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "colors",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "cigarette-tobacco-nicotine-excise-tax-report",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "colorado-lottery-question-or-concern",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "contact-the-executive-directors-office",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "cora-request-form",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "cora",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "customer-service-compliment-or-complaint",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "division-of-motor-vehicles-data",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "data-requests-and-questions",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "data-and-reports",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "driver-license-id-or-permit-webform",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "express-consent",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "express-consent-cases-procedures",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "hearings-division",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "home",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "holidays",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "human-resources",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "individual-tax-webform",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "liquor-marijuana-or-racing-concern-form",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "liquor-enforcement-open-records-request-form",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "media-center",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "military-veterans",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "request-personal-property-seized-in-a-business-closure",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "retail-sales-reports",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "motor-vehicle-testing-and-emissions-hearings",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "rulemaking",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "send-an-americans-with-disabilities-act-ada-request",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "vehicle-help",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "social-media-policy",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "contact-us/contact-hearings",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "data-and-reports/cigarette-nicotine-tobacco-data",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "data-and-reports/income-tax-data",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "data-and-reports/racing-data",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "data-and-reports/state-revenue-data",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "data-and-reports/marijuana-data",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "hearings-homepage/hearing-forms",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "hearings-homepage/motor-vehicle-hearings",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "hearings-homepage/zoom-help",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "hearings-homepage/regulatory-hearings-rulemaking",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "im-looking-for/ask-a-question",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "press-release/colorado-sports-betting-wagers-see-a-117-increase-in-the-fourth-month-of-legalization",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "contact-us/contact-hearings",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "data-and-reports/liquor-data",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "data-and-reports/marijuana-data",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "data-and-reports/motor-fuel-data",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "data-and-reports/sales-data",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "hearings-homepage/motor-vehicle-hearings",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "data-and-reports/statistics-of-income-reports",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "hearings-homepage/hearing-forms",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "im-looking-for/ask-a-question",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "hearings-homepage/regulatory-hearings-rulemaking",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "hearings-homepage/zoom-help",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "press-release/colorado-sports-betting-wagers-see-a-117-increase-in-the-fourth-month-of-legalization",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "data-and-reports/income-tax-data/voluntary-contribution-reports",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "data-and-reports/income-tax-data/individual-income-tax-data-snapshots",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "data-and-reports/income-tax-data/gig-economy-reports",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "data-and-reports/income-tax-data/tax-filer-demographics-and-migration-reports",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "data-and-reports/marijuana-data/disposition-of-marijuana-tax-revenue",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "data-and-reports/sales-data/special-event-sales-report",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "data-and-reports/marijuana-data/marijuana-sales-reports",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "data-and-reports/marijuana-data/marijuana-tax-reports",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "data-and-reports/liquor-data/liquor-excise-tax-report",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "data-and-reports/motor-fuel-data/motor-fuel-consumption-reports",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "hearings-homepage/motor-vehicle-hearings/alcohol-and-drug-related-offenses",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "hearings-homepage/motor-vehicle-hearings/auto-insurance",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "hearings-homepage/motor-vehicle-hearings/interlock",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "hearings-homepage/motor-vehicle-hearings/loss-of-driving-privileges-hearings",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "hearings-homepage/motor-vehicle-hearings/point-suspensions",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "hearings-homepage/regulatory-hearings-rulemaking/rulemaking-hearings",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "hearings-homepage/regulatory-hearings-rulemaking/regulatory-hearings-rulemaking-procedures",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "hearings-homepage/regulatory-hearings-rulemaking/specialized-business-group-regulatory-hearings",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "mobile",
+    "date": "2023-08-29",
+    "page": "hearings-homepage/regulatory-hearings-rulemaking/tax-hearings",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "data-and-reports/liquor-data/liquor-excise-tax-report",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "data-and-reports/marijuana-data/disposition-of-marijuana-tax-revenue",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "data-and-reports/marijuana-data/marijuana-sales-reports",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "data-and-reports/marijuana-data/marijuana-tax-reports",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "data-and-reports/income-tax-data/individual-income-tax-data-snapshots",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "data-and-reports/income-tax-data/gig-economy-reports",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "data-and-reports/income-tax-data/tax-filer-demographics-and-migration-reports",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "data-and-reports/income-tax-data/voluntary-contribution-reports",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "data-and-reports/motor-fuel-data/motor-fuel-consumption-reports",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "data-and-reports/sales-data/special-event-sales-report",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "hearings-homepage/motor-vehicle-hearings/interlock",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "hearings-homepage/motor-vehicle-hearings/alcohol-and-drug-related-offenses",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "hearings-homepage/motor-vehicle-hearings/auto-insurance",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "hearings-homepage/motor-vehicle-hearings/point-suspensions",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "hearings-homepage/motor-vehicle-hearings/loss-of-driving-privileges-hearings",
+    "lighthouseErrors": [
+      {
+        "id": "heading-order",
+        "errorCount": 1
+      }
+    ],
+    "lighthouseErrorCount": 1,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "hearings-homepage/regulatory-hearings-rulemaking/regulatory-hearings-rulemaking-procedures",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "hearings-homepage/regulatory-hearings-rulemaking/rulemaking-hearings",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "hearings-homepage/regulatory-hearings-rulemaking/specialized-business-group-regulatory-hearings",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  },
+  {
+    "agency": "co-dor",
+    "type": "desktop",
+    "date": "2023-08-29",
+    "page": "hearings-homepage/regulatory-hearings-rulemaking/tax-hearings",
+    "lighthouseErrors": [],
+    "lighthouseErrorCount": 0,
+    "wcagErrors": [],
+    "wcagErrorCount": 0
+  }
+]
